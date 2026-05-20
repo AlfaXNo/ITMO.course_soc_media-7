@@ -43,7 +43,7 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
-    "path" : "/Погода",
+    "path" : "/погода",
     "enabled" : true,
     "shared" : false,
     "phrases" : [ {
