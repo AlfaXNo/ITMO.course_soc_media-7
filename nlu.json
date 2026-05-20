@@ -43,20 +43,8 @@
     "classificationRules" : {
       "refs" : [ ]
     },
-    "priority" : 0
-  }, {
-    "path" : "/Давай поговорим  о погоде.",
-    "enabled" : true,
-    "shared" : false,
-    "phrases" : [ {
-      "text" : "А что там с погодой?"
-    }, {
-      "text" : "Давай поговорим  о погоде."
-    } ],
-    "classificationRules" : {
-      "refs" : [ ]
-    },
     "patterns" : [ ],
+    "slots" : [ ],
     "priority" : 0
   } ],
   "entities" : [ ],
