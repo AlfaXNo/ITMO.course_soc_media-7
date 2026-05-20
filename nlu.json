@@ -60,6 +60,8 @@
       "text" : "тепло"
     }, {
       "text" : "холодно"
+    }, {
+      "text" : "дождь"
     } ],
     "classificationRules" : {
       "refs" : [ ]
