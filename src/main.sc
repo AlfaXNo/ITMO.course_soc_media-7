@@ -3,7 +3,6 @@ require: slotfilling/slotFilling.sc
 theme: /
     state: Start
         q!: $regex</start>
-        a: Начнём.
     # Стейт /hello — приветствие пользователя
     state: hello
         # Разные варианты приветствия и команда /start
