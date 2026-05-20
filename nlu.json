@@ -44,6 +44,20 @@
       "refs" : [ ]
     },
     "priority" : 0
+  }, {
+    "path" : "/Давай поговорим  о погоде.",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "А что там с погодой?"
+    }, {
+      "text" : "Давай поговорим  о погоде."
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
   } ],
   "entities" : [ ],
   "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ],
