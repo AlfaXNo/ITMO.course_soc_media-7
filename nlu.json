@@ -23,15 +23,48 @@
     }
   },
   "intents" : [ {
-    "path" : "/пока",
+    "path" : "/валюта",
     "enabled" : true,
     "shared" : false,
     "phrases" : [ {
-      "text" : "пока"
+      "text" : "курс"
+    }, {
+      "text" : "доллар"
+    }, {
+      "text" : "рубль"
+    }, {
+      "text" : "евро"
+    }, {
+      "text" : "юань"
     } ],
     "classificationRules" : {
       "refs" : [ ]
     },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Погода",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "погода"
+    }, {
+      "text" : "температура"
+    }, {
+      "text" : "пасмурно"
+    }, {
+      "text" : "солнечно"
+    }, {
+      "text" : "облачно"
+    }, {
+      "text" : "тепло"
+    }, {
+      "text" : "холодно"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
     "priority" : 0
   }, {
     "path" : "/привет",
@@ -39,6 +72,18 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "привет"
+    }, {
+      "text" : "Здравствуйте"
+    }, {
+      "text" : "Приветик"
+    }, {
+      "text" : "Доброе утро"
+    }, {
+      "text" : "Добрый вечер"
+    }, {
+      "text" : "Добрый день"
+    }, {
+      "text" : "Здарова"
     } ],
     "classificationRules" : {
       "refs" : [ ]
